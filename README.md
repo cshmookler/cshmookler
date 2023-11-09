@@ -12,4 +12,7 @@
 - 📫 Looking to collaborate? Contact me at cshmookler@gmail.com.
 
 ![cshmookler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshmookler&show_icons=true&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
-![cshmookler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cshmookler&hide_border=true&bg_color=00000000&text_color=3498db)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=cshmookler&hide_border=true&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cshmookler&hide_border=true&theme=default" />
+</picture>
