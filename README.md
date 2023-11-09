@@ -11,5 +11,5 @@
     - **Java** for CS1420 and CS2420 at the University of Utah.
 - 📫 Looking to collaborate? Contact me at cshmookler@gmail.com.
 
-![cshmookler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshmookler&theme=default&show_icons=true&hide_border=true&layout=compact)
-![cshmookler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cshmookler&theme=default&hide_border=true)
+![cshmookler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshmookler&show_icons=true&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
+![cshmookler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cshmookler&hide_border=true&bg_color=00000000&text_color=3498db)
