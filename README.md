@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on:
     - [GLFW-and-Vulkan-wrapper](https://github.com/cshmookler/GLFW-and-Vulkan-wrapper) --> A high performance application creation library.
     - [cpp_template](https://github.com/cshmookler/cpp_template) --> A template project for C++ libraries and applications.
+    - [xor_crypt](https://github.com/cshmookler/xor_crypt) --> A command-line encryption program that uses a [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) to encrypt files.
     - [config.nvim](https://github.com/cshmookler/config.nvim) --> My personal NeoVim configuration.
 - 🌱 I'm currently learning:
     - **C++** for high performance and embedded programming.
