@@ -3,8 +3,10 @@
 - 🔭 I’m currently working on:
     - [GLFW-and-Vulkan-wrapper](https://github.com/cshmookler/GLFW-and-Vulkan-wrapper) --> A high performance application creation library.
     - [cpp_template](https://github.com/cshmookler/cpp_template) --> A template project for C++ libraries and applications.
-    - [xor_crypt](https://github.com/cshmookler/xor_crypt) --> A command-line encryption program that uses a [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) to encrypt files.
+    - [archlinux-setup](https://github.com/cshmookler/archlinux-setup) --> An installation script for my custom Arch Linux setup.
+    - [status_bar](https://github.com/cshmookler/status_bar) --> A runtime configurable status bar for dwm.
     - [config.nvim](https://github.com/cshmookler/config.nvim) --> My personal NeoVim configuration.
+    - [xor_crypt](https://github.com/cshmookler/xor_crypt) --> A command-line encryption program that uses a [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) to encrypt files.
 - 🌱 I'm currently learning:
     - **C++** for high performance and embedded programming.
     - **Python** for cross-platform scripting and backend web development.
