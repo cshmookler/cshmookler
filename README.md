@@ -1,6 +1,6 @@
 ### Hi, I'm Caden Shmookler (@cshmookler)
 
-<p>I'm studying Computer Engineering at the University of Utah (expected graduation: 2027).</p>
+- I'm studying Computer Engineering at the University of Utah (expected graduation: 2027).
 
 - I'm currently working on:
     - [moos](https://github.com/cshmookler/moos) --> A custom Linux distrobution based on Arch Linux.
@@ -17,7 +17,7 @@
     - **Lua** for configuring Neovim.
     - **Java** for CS1420 and CS2420 at the University of Utah.
     - **C#** for CS3500 at the University of Utah.
-
+    
 - Looking to collaborate? Contact me at cshmookler@gmail.com.
 
 ![cshmookler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshmookler&show_icons=true&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)
