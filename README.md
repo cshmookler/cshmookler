@@ -3,7 +3,7 @@
 - I'm studying Computer Engineering at the University of Utah (expected graduation: 2027).
 
 - I'm currently working on:
-    - [moos](https://github.com/cshmookler/moos) --> A custom Linux distrobution based on Arch Linux.
+    - [moos](https://github.com/cshmookler/moos) --> A custom Linux distribution based on Arch Linux.
     - [status_bar](https://github.com/cshmookler/status_bar) --> A runtime configurable status bar for dwm.
     - [xor_crypt](https://github.com/cshmookler/xor_crypt) --> A command-line encryption program that uses a [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) to encrypt files.
     - [cpp_template](https://github.com/cshmookler/cpp_template) --> A modern C++ template for libraries and applications.
