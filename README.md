@@ -1,9 +1,8 @@
-### I am Caden Shmookler (@cshmookler)
+### Hi, I'm Caden Shmookler (@cshmookler)
 
-- I am studying Computer Engineering at the University of Utah (expected graduation: 2027).
-- My favorite programming languages are C++ and Python.
+<p>I'm studying Computer Engineering at the University of Utah (expected graduation: 2027).</p>
 
-- I am currently working on:
+- I'm currently working on:
     - [moos](https://github.com/cshmookler/moos) --> A custom Linux distrobution based on Arch Linux.
     - [status_bar](https://github.com/cshmookler/status_bar) --> A runtime configurable status bar for dwm.
     - [xor_crypt](https://github.com/cshmookler/xor_crypt) --> A command-line encryption program that uses a [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) to encrypt files.
@@ -12,7 +11,7 @@
     - [gvw](https://github.com/cshmookler/gvw) --> A high performance application creation library made with GLFW and Vulkan.
     - [ansies](https://github.com/cshmookler/ansies) --> A heapless library for utilizing ANSI escape sequences.
 
-- I am currently learning:
+- I'm currently learning:
     - **C++** for high performance and embedded programming.
     - **Python** for cross-platform scripting and backend web development.
     - **Lua** for configuring Neovim.
