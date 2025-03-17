@@ -5,7 +5,7 @@
 - I'm currently working on:
     - [cpp_result](https://github.com/cshmookler/cpp_result) --> A safer alternative to exceptions in C++.
     - [inotify_ipc](https://github.com/cshmookler/inotify_ipc) --> Socketless inter-process communication on Linux.
-    - [system_state](https://github.com/cshmookler/system_state) --> A multi-purpose state fetching library for Linux.
+    - [system_state](https://github.com/cshmookler/system_state) --> A multipurpose state fetching library for Linux.
     - [cpp_template](https://github.com/cshmookler/cpp_template) --> A modern C++ template for libraries and applications.
     - [py_template](https://github.com/cshmookler/py_template) --> A template project for new Python packages.
     - [moos](https://github.com/cshmookler/moos) --> A custom Linux distribution based on Arch Linux.
