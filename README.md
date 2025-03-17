@@ -3,13 +3,17 @@
 - I'm studying Computer Engineering at the University of Utah (expected graduation: 2027).
 
 - I'm currently working on:
-    - [moos](https://github.com/cshmookler/moos) --> A custom Linux distribution based on Arch Linux.
-    - [status_bar](https://github.com/cshmookler/status_bar) --> A runtime configurable status bar for dwm.
-    - [xor_crypt](https://github.com/cshmookler/xor_crypt) --> A command-line encryption program that uses a [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) to encrypt files.
+    - [cpp_result](https://github.com/cshmookler/cpp_result) --> A safer alternative to exceptions in C++.
+    - [inotify_ipc](https://github.com/cshmookler/inotify_ipc) --> Socketless inter-process communication on Linux.
+    - [system_state](https://github.com/cshmookler/system_state) --> A multi-purpose state fetching library for Linux.
     - [cpp_template](https://github.com/cshmookler/cpp_template) --> A modern C++ template for libraries and applications.
+    - [py_template](https://github.com/cshmookler/py_template) --> A template project for new Python packages.
+    - [moos](https://github.com/cshmookler/moos) --> A custom Linux distribution based on Arch Linux.
     - [neovim_conf](https://github.com/cshmookler/neovim_conf) --> A multipurpose Neovim configuration for programming and note-taking.
     - [gvw](https://github.com/cshmookler/gvw) --> A high performance application creation library made with GLFW and Vulkan.
-    - [ansies](https://github.com/cshmookler/ansies) --> A heapless library for utilizing ANSI escape sequences.
+    - [xor_crypt](https://github.com/cshmookler/xor_crypt) --> A command-line encryption program that uses a [one-time pad](https://en.wikipedia.org/wiki/One-time_pad) to encrypt files.
+    - [neovim_crypt](https://github.com/cshmookler/neovim_crypt) --> Adds AES-256 encryption to Neovim.
+    - [status_bar](https://github.com/cshmookler/status_bar) --> A runtime configurable status bar for dwm.
 
 - I'm currently learning:
     - **C++** for high performance and embedded programming.
