@@ -19,9 +19,9 @@
 - I'm currently learning:
     - **C++** for high performance and embedded programming.
     - **Python** for cross-platform scripting and backend web development.
-    - **Lua** for configuring Neovim.
+    - **C#** for application development.
     - **Java** for CS1420 and CS2420 at the University of Utah.
-    - **C#** for CS3500 at the University of Utah.
+    - **Lua** for configuring Neovim.
     
 - Looking to collaborate? Contact me at cshmookler@gmail.com.
 
