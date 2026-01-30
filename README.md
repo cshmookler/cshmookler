@@ -19,7 +19,8 @@
 - I'm currently learning:
     - **C++** for high performance and embedded programming.
     - **Python** for cross-platform scripting and backend web development.
-    - **C#** for application development.
+    - **C#** for application development, backend web development, and CS3500 at the University of Utah.
+    - **Verilog** for ECE3700 and ECE3710 at the University of Utah.
     - **Java** for CS1420 and CS2420 at the University of Utah.
     - **Lua** for configuring Neovim.
     
